@@ -39,6 +39,9 @@ Top attrition drivers (via SHAP values):
 4. Job Role → Sales roles display higher attrition.
 5. Monthly Income → Employees earning <$5,000/month are more likely to leave.
 
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/576be1b6-2020-46bc-ba26-7d44d1b069ec" />
+
+
 ## Potential Action Items
 
 - Monitor and reduce overtime for at-risk employees.
